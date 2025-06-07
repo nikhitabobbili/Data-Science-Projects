@@ -1,0 +1,1 @@
+This project develops a product recommendation system that utilizes collaborative filtering and content-based filtering techniques to suggest products to users based on their preferences and behavior. The goal is to enhance user experience by providing personalized recommendations, thereby increasing user engagement and sales.
