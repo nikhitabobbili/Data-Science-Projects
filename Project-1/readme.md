@@ -1,1 +1,1 @@
-project -1 files
+This project aims to analyze customer data and segment customers into distinct groups based on their purchasing behavior and demographics. By leveraging machine learning techniques, we can identify patterns and insights that help businesses tailor their marketing strategies, improve customer satisfaction, and enhance overall profitability.
